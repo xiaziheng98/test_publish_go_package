@@ -1,4 +1,4 @@
-package test_package
+package test_publish_go_package
 
 import "time"
 
